@@ -1,0 +1,30 @@
+Consignes:
+
+_ Happy a mangé des morceaux du code: répare les !
+
+_ Il en a aussi abîmés certains.. :
+	- Le titre de la bannière avait une police 'Lucida Console'
+	- La bordure des images de la gallerie avait cette couleur quand on déplaçait la souris sur l'image '#3e6cb2'
+
+_ Avec son gros cul, il a également bousculé l'indentation du HTML et du CSS.. remet ça en ordre
+
+Maintenant que tout est réparé, améliorons un peu le truc:
+
+_ Le tableau même une fois réparé est un peu triste non ? essaye de faire en sorte qu'une rangée sur 2 soit gris clair, et l'autre blanche.
+
+_ ajoute 3 paragraphes alignés et centrés pour décrire 3 défauts de ta truffe dorée (ou à défaut y C/C du Lorem Ipsum ;) )
+
+_ Le roi Happy veut que ses nombreux fans puissent le contacter pour lui envoyer des montagnes de friandises et de joujoux,
+  bon prince qu'il est, il se propose une fois ses trésors reçus d'envoyer une photo..
+
+  On va faire semblant hein, mais comme il est con il y croira ! Fais donc un formulaire de contact avec ces éléments:
+ 
+	- Nom
+	- Prénom
+	- Adresse
+	- Une option de sélection: jouet ou friandise
+	- une checkbox ou selecteur bouton radio pour recevoir ou non une photo dédicacée par sa royale papatte saucisonneuse !
+
+  Pour finir, copyright oblige rajoute un footer qui contient le copyright "Happy's world 2021"
+
+	Force et honneur ;)
